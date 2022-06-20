@@ -1,10 +1,7 @@
-Projeto criado com REACTJS.
-
-## Available Scripts
+## Projeto criado com REACTJS.
 
 Para iniciar, na pasta do diretório rode:
-
-### `npm start`
+`npm start`
 
 ![myimage-alt-tag](https://cdn.discordapp.com/attachments/957078692771819600/988529028317188096/unknown.png)
 
