@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 Projeto criado com REACTJS.
 
 ## Available Scripts
